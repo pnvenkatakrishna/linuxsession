@@ -2,20 +2,20 @@
 
 * in windows laptops we have windows os 
 * mobile - android 
-* 
+
 
 
 ## os 
-user -the family 
-os - the person who is taking order
-hardware -kitchen
+* user -the family 
+* os - the person who is taking order
+* hardware -kitchen
 
 
-![os describe](image.png)
+* ![alt text](Images/image.png)
 
 
 
-### can we install two operating systems 
+### can we install two operating systems in a machine
 
 # what is virtual machine
 
@@ -45,7 +45,7 @@ vm is software, it contains all the hardware information
 ### which hypervisor we are going to use? 
 
 * vmware workstation 
-* oracle vitualbox (focus)-- Recomended 
+* oracle vitualbox (focus)-- Recomended; [Refer Here](https://www.virtualbox.org/) 
 
 ### for mac os users 
 * vmware fusion 
@@ -55,9 +55,12 @@ vm is software, it contains all the hardware information
 * Terminal (for windows10 users they need to install)
 ![alt text](Images/image1.png)
 
-* [Gibash](https://git-scm.com/install/windows)
+* [Refer Here](https://git-scm.com/install/windows) for `GitBash Download`
 
+![alt text](Images/image2.png)
 
+* while installing GitBash, add gitbash to terminal(as shown in the below image)
+![alt text](Images/image3.png)
 
 # wsl (windows subsystem linux)
 
@@ -71,7 +74,10 @@ vm is software, it contains all the hardware information
 * windows - winget  
 * macos - brew 
 
+
+#### To install virtual box over command line 
 `winget install -e --id Oracle.VirtualBox`
+
 
 ## vmware
 [refer here](https://www.broadcom.com/)
@@ -87,7 +93,7 @@ what are  these commands
 * pwd
 * cd 
 
-```
+```bash
 Get-ChildItem # To list
 start . #  To open file explorer
 Get-Alias # To list all the commands in windows
