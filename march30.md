@@ -3,14 +3,14 @@
 
 * when we press the power button **system will dead**.
 
-we system  has hardware
+*   system hardware
 
-* RAM
-* MEMORY(ROM)
-* CPUS
-* NIC
-* DRIVERS 
-* 
+    * RAM
+    * MEMORY(ROM)
+    * CPUS
+    * NIC
+    * DRIVERS 
+
 
 * FOR THAT TO RUN THE SYSTEM IT NEED BRAIN 
 
