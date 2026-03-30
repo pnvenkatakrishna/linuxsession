@@ -26,7 +26,7 @@ vm is software, it contains all the hardware information
 
 * two types 
      * Type1 - Baremetal 
-         * for enterprises
+        * for enterprises
 
      * Type2 - hosted 
         * for learning and development
@@ -82,7 +82,7 @@ vm is software, it contains all the hardware information
 ## vmware
 [refer here](https://www.broadcom.com/)
 
-# How many of you good with 
+# How many of you good with windows system commands
 
 
 ## 
