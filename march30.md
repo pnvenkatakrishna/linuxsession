@@ -40,9 +40,9 @@ SSYTEM WORKS OR NOT
 
 * what is kernel 
 
-- Kernel is heart of the linux 
+# Kernel is heart of the linux 
 
-![alt text](image.png)
+![alt text](Images/image5.png)
 
 # what is kerenl
 
