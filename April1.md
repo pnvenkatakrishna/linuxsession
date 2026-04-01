@@ -78,10 +78,10 @@ ctrl+alt - F6
 
 *  init <runlevel>
 
-init 0 -- poweroff/stop  -> runlevel1 
-init 1 -- rescue
-init 2 --
-init 3 -- non gui 
-init 4 --
-init 5 -- gui 
-init 6 -- reboot/restart -> runlevel6
+* init 0 -- poweroff/stop  -> runlevel1 
+* init 1 -- rescue
+* init 2 --
+* init 3 -- non gui 
+* init 4 --
+* init 5 -- gui 
+* init 6 -- reboot/restart -> runlevel6
