@@ -8,10 +8,9 @@
 ## What is command?
 
 * we can ineract with any server with commands
-
-* command-name  (What to do )
-* command-name option (How to do )
-* command-name options arguments  (on what to do )
+    * command-name  (What to do )
+    * command-name option (How to do )
+    * command-name options arguments  (on what to do )
 
 
 
@@ -29,7 +28,7 @@
     * ls -l -> To list directory content
     * ls -a -> To list hidden content
     * ls -h -> to list content with human readable 
-* To learn more about ls command 
+* To learn more about `ls command ` -> `ls --help`
 
 * commands with option
 
@@ -57,13 +56,15 @@ in linux any hidden can start with `.`
 we have multiple screens 
 - TTY/Terminal session
 
-to change/switch terminal 
+## to change/switch terminal 
 
 `chvt <terminal number>`
 
+or 
+
 ctrl+alt - F1
 ctrl+alt - F2
-............F3 , F4, F4 
+............F3 , F4, F5  
 ctrl+alt - F6 
 
 * who
@@ -77,11 +78,10 @@ ctrl+alt - F6
 ## runlevel  
 
 *  init <runlevel>
-
-* init 0 -- poweroff/stop  -> runlevel1 
-* init 1 -- rescue
-* init 2 --
-* init 3 -- non gui 
-* init 4 --
-* init 5 -- gui 
-* init 6 -- reboot/restart -> runlevel6
+    * init 0 -- poweroff/stop  -> runlevel1 
+    * init 1 -- rescue
+    * init 2 --
+    * init 3 -- non gui 
+    * init 4 --
+    * init 5 -- gui 
+    * init 6 -- reboot/restart -> runlevel6
