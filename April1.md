@@ -77,7 +77,7 @@ ctrl+alt - F6
 
 ## runlevel  
 
-*  init <runlevel>
+*  `init <runlevel>`
     * init 0 -- poweroff/stop  -> runlevel1 
     * init 1 -- rescue
     * init 2 --
