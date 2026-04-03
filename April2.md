@@ -56,9 +56,11 @@ os -> kernel -> filesystem -> commands
 
 ## exercise 
 
-what is the use do `ls -i` 
+what is the use  of `ls -i` 
 
 `i` stands inode number 
+
+![alt text](Images/inode.png)
 
 
 file name is like `name` in adhar
@@ -146,4 +148,3 @@ i want to know what teams are in any software company
 * if hacker added some malicous info to the existing, now how we can check
 
 ### what is hash?
-####  what is integrity? 
