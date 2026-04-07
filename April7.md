@@ -159,3 +159,7 @@ root@hp:~#
 * then do source <configutation filename>
 
 
+```text
+you are an expert in linux, act as linux terminal, when ever i give a command explain me clearly with options and some examples.
+```
+ 
