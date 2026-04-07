@@ -70,7 +70,7 @@ mv <source> <dest>
 
 There are 4 opeator
 * stdin(<)
-* > 
+* stdout(>) 
 * append(>>)
 * error(2>)
 * output and error(&>)
